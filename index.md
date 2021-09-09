@@ -17,6 +17,6 @@
 #### &emsp;&emsp;按下 [Add new account] 會跳出以下視窗，按下 [是] 
 ![image info](img/Image005.png)
 #### &emsp;&emsp;出現Add External Bucket 請在 Bucket name: 輸入 [補教雲提供之BucketName]，點選 [Add External bucket]
-![image info](img/Image006.png)
+![image info](img/step5-2_20210909-01.png)
 ### 6. 完成後即可透過 S3 Browser 進行檔案上傳與刪除等管理。
 ![image info](img/Image010.png)
